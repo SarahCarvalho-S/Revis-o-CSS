@@ -1,2 +1,6 @@
 # Revis-o-CSS
-revisão css
+## Exercicios de revisao CSS fundamentos 
+
+### Hierarquia e especificidades CSS 
+
+![Imagem CSS](./img/imgcss.png)
