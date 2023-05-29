@@ -1,0 +1,25 @@
+body{
+    margin-left: 40px;
+    color:rgb(77, 145, 10);
+}
+
+p{ 
+    color: #FF0000;
+}
+
+.propaganda{
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.titulopage{
+    color: deeppink;
+    font-size: 30px;
+}
+
+.fundo-verde p{
+    background-color: rgb(95, 151, 95);
+    color:black
+    
+}
